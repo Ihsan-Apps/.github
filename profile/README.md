@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Ihsan-Apps/.github/blob/assets/banner ihsan apps.png" width="100%" alt="Ihsan Apps Banner"/>
+  <img src="https://github.com/Ihsan-Apps/.github/blob/main/profile/assets/banner%20ihsan%20apps.png" width="100%" alt="Ihsan Apps Banner"/>
 </p>
 
 <h1 align="center">👋 Welcome to Ihsan Apps</h1>
@@ -73,5 +73,5 @@ Feel free to open issues or pull requests.
 ### Scan QR Code to Donate
 
 <p align="center">
-  <img src="https://github.com/Ihsan-Apps/.github/blob/main/assets/qr-code-1.png" width="200" alt="Donate QR Code"/>
+  <img src="https://github.com/Ihsan-Apps/.github/blob/main/profile/assets/qr-code-1.png" width="200" alt="Donate QR Code"/>
 </p>
