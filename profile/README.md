@@ -72,7 +72,7 @@ Feel free to open issues or pull requests.
 
 ### ❤️ Support or Donate
 
-[Click here to make a secure payment](https://buy.stripe.com/00w7sE3r81bV0tn43Fa7C00)
+[Click here to make a secure payment](https://buy.stripe.com/7sY14n1nQ55cadzbC06wE00)
 
 ### Scan QR Code to Donate
 
