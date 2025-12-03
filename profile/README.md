@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://github.com/Ihsan-Apps/.github/blob/main/profile/assets/banner%20ihsan%20apps.png" width="100%" alt="Ihsan Apps Banner"/>
+  <img 
+    src="https://github.com/Ihsan-Apps/.github/blob/main/profile/assets/banner%20ihsan%20apps.png" 
+    alt="Ihsan Apps Banner"
+    height="200"
+  />
 </p>
 
 <h1 align="center">👋 Welcome to Ihsan Apps</h1>
