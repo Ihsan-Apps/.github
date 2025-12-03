@@ -69,3 +69,9 @@ Feel free to open issues or pull requests.
 ### ❤️ Support or Donate
 
 [Click here to make a secure payment](https://buy.stripe.com/00w7sE3r81bV0tn43Fa7C00)
+
+### Scan QR Code to Donate
+
+<p align="center">
+  <img src="https://github.com/Ihsan-Apps/.github/blob/main/assets/qr-code-1.png" width="200" alt="Donate QR Code"/>
+</p>
